@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lq4bzRO7V7wt+aDWP/yeO21JUMdNcyMCsV61DfUF1r+R2UBvhIJY1l9voMzF3y6VzYPQECtqBQ5BrfMFhKf0cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Jaroslavas\\NordVPN\\PartyCli.Api\\PartyCli.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

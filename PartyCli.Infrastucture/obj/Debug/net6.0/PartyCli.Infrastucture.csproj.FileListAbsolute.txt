@@ -1,0 +1,17 @@
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\bin\Debug\net6.0\PartyCli.Infrastucture.deps.json
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\bin\Debug\net6.0\PartyCli.Infrastucture.dll
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\bin\Debug\net6.0\PartyCli.Infrastucture.pdb
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\bin\Debug\net6.0\PartyCli.Api.dll
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\bin\Debug\net6.0\PartyCli.Domain.dll
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\bin\Debug\net6.0\PartyCli.Domain.pdb
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\bin\Debug\net6.0\PartyCli.Api.pdb
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\obj\Debug\net6.0\PartyCli.Infrastucture.csproj.AssemblyReference.cache
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\obj\Debug\net6.0\PartyCli.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\obj\Debug\net6.0\PartyCli.Infrastucture.AssemblyInfoInputs.cache
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\obj\Debug\net6.0\PartyCli.Infrastucture.AssemblyInfo.cs
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\obj\Debug\net6.0\PartyCli.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\obj\Debug\net6.0\PartyCli.Infrastucture.csproj.CopyComplete
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\obj\Debug\net6.0\PartyCli.Infrastucture.dll
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\obj\Debug\net6.0\refint\PartyCli.Infrastucture.dll
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\obj\Debug\net6.0\PartyCli.Infrastucture.pdb
+C:\Jaroslavas\NordVPN\PartyCli.Infrastucture\obj\Debug\net6.0\ref\PartyCli.Infrastucture.dll
